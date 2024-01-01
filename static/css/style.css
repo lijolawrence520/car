@@ -1,0 +1,72 @@
+/* Body styles */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f8f8f8; /* Change as needed */
+}
+
+/* Form container */
+.a {
+    max-width: 1000px; /* Adjust width as needed */
+    margin: 50px auto;
+    padding: 70px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Adding a subtle shadow */
+}
+
+/* Form header */
+.det h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/* Form row container */
+.b {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+/* Individual form row */
+.c {
+    flex-basis: 48%; /* Adjust width as needed */
+    margin-bottom: 10px;
+}
+
+/* Label styles */
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+/* Input field styles */
+.input-text {
+    width: 100%;
+    padding: 8px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+}
+
+/* Submit button styles */
+.d {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.register {
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+.register:hover {
+    background-color: #45a049;
+}

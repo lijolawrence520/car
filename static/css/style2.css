@@ -1,0 +1,12 @@
+h1 {
+    font-family: Arial, sans-serif;
+    font-size: 24px;
+    color: #333; /* Change the color as needed */
+  }
+  
+  /* Style for the prediction */
+  .prediction {
+    font-weight: bold;
+    color: #ff6600; /* Change the color as needed */
+    /* You can add more styles as desired */
+  }

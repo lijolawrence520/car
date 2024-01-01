@@ -1,0 +1,2010 @@
+[2023-12-20 19:47:19,911:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-20 19:47:19,922:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-20 20:01:25,452:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-20 20:01:25,472:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-20 20:01:25,476:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-20 20:05:42,444:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-20 20:05:42,452:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-20 20:05:42,452:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-20 21:31:53,502:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-20 21:31:53,502:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-20 21:31:53,509:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-20 21:38:05,554:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-20 21:38:05,554:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-20 21:38:05,562:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-20 21:38:05,562:INFO:common:created directory at:artifacts]
+[2023-12-20 21:38:05,562:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-20 21:38:07,452:INFO:3099697370:artifacts/data_ingestion/data.zip download with following info: 
+ Connection: close
+Content-Length: 3898
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "1e8268eece04b73f929c644872894f2c761460957a71981a3fcac6d2293b3bd2"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 0F5A:11AC:6964A0:7D04A9:65831165
+Accept-Ranges: bytes
+Date: Wed, 20 Dec 2023 16:08:06 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10250-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1703088485.047701,VS0,VE1105
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: a874378f2c6d77efda402ef48b1f803377348237
+Expires: Wed, 20 Dec 2023 16:13:06 GMT
+Source-Age: 0
+
+]
+[2023-12-20 22:06:41,073:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-20 22:06:41,077:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-20 22:06:41,078:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-20 22:06:41,081:INFO:common:created directory at:artifacts]
+[2023-12-20 22:06:41,081:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-20 22:06:41,081:INFO:926414226:file already exists of size:~4]
+[2023-12-23 23:27:32,979:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-12-23 23:27:32,979:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-23 23:27:32,999:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-23 23:27:32,999:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-23 23:27:32,999:INFO:common:created directory at:artifacts]
+[2023-12-23 23:27:32,999:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-23 23:27:34,632:INFO:data_ingestion:artifacts/data_ingestion/data.zip download with following info: 
+ Connection: close
+Content-Length: 3898
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "1e8268eece04b73f929c644872894f2c761460957a71981a3fcac6d2293b3bd2"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: B424:11B5:BD15AC:ED4DCE:65871F85
+Accept-Ranges: bytes
+Date: Sat, 23 Dec 2023 17:57:26 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10246-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1703354246.526558,VS0,VE1054
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 7f6f2c1638b44eed8dac2ff65603bae8d368fb06
+Expires: Sat, 23 Dec 2023 18:02:26 GMT
+Source-Age: 0
+
+]
+[2023-12-23 23:27:34,647:INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-12-24 12:36:42,208:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 12:36:42,214:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 12:36:42,224:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 12:36:42,224:INFO:common:created directory at:artifacts]
+[2023-12-24 12:36:42,224:INFO:common:created directory at:artifacts/data_validation]
+[2023-12-24 12:39:09,158:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 12:39:09,158:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 12:39:09,172:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 12:39:09,172:INFO:common:created directory at:artifacts]
+[2023-12-24 12:39:09,180:INFO:common:created directory at:artifacts/data_validation]
+[2023-12-24 12:39:32,490:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 12:39:32,499:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 12:39:32,502:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 12:39:32,514:INFO:common:created directory at:artifacts]
+[2023-12-24 12:39:32,514:INFO:common:created directory at:artifacts/data_validation]
+[2023-12-24 12:39:47,939:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 12:39:47,943:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 12:39:47,950:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 12:39:47,950:INFO:common:created directory at:artifacts]
+[2023-12-24 12:39:47,950:INFO:common:created directory at:artifacts/data_validation]
+[2023-12-24 13:58:58,232:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-12-24 13:58:58,252:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 13:58:58,261:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 13:58:58,297:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 13:58:58,297:INFO:common:created directory at:artifacts]
+[2023-12-24 13:58:58,301:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-24 13:58:59,301:INFO:data_ingestion:artifacts/data_ingestion/data.zip download with following info: 
+ Connection: close
+Content-Length: 3898
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "1e8268eece04b73f929c644872894f2c761460957a71981a3fcac6d2293b3bd2"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 5926:3BB2:12BEC66:178B87E:6587EBC1
+Accept-Ranges: bytes
+Date: Sun, 24 Dec 2023 08:28:50 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10222-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1703406530.805236,VS0,VE305
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 6016a8af7e806002eaa8f2cbc6e16e87a24bb769
+Expires: Sun, 24 Dec 2023 08:33:50 GMT
+Source-Age: 0
+
+]
+[2023-12-24 13:58:59,332:INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-12-24 13:58:59,332:INFO:main:>>>>>> stage Data Validation stage started <<<<<<]
+[2023-12-24 13:58:59,336:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 13:58:59,336:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 13:58:59,341:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 13:58:59,341:INFO:common:created directory at:artifacts]
+[2023-12-24 13:58:59,341:INFO:common:created directory at:artifacts/data_validation]
+[2023-12-24 13:58:59,373:INFO:main:>>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2023-12-24 18:56:06,414:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 18:56:06,422:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 18:56:06,438:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 18:56:06,438:INFO:common:created directory at:artifacts]
+[2023-12-24 18:56:06,438:INFO:common:created directory at:artifacts/data_transformation]
+[2023-12-24 18:56:06,493:INFO:2033656094:Splited data into training and test sets]
+[2023-12-24 18:56:06,493:INFO:2033656094:(225, 9)]
+[2023-12-24 18:56:06,493:INFO:2033656094:(76, 9)]
+[2023-12-24 18:57:21,033:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 18:57:21,033:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 18:57:21,042:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 18:57:21,046:INFO:common:created directory at:artifacts]
+[2023-12-24 18:57:21,046:INFO:common:created directory at:artifacts/data_transformation]
+[2023-12-24 18:57:21,054:INFO:853239116:Splited data into training and test sets]
+[2023-12-24 18:57:21,062:INFO:853239116:(225, 9)]
+[2023-12-24 18:57:21,063:INFO:853239116:(76, 9)]
+[2023-12-24 18:57:54,975:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 18:57:54,983:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 18:57:54,985:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 18:57:54,985:INFO:common:created directory at:artifacts]
+[2023-12-24 18:57:54,991:INFO:common:created directory at:artifacts/data_transformation]
+[2023-12-24 18:58:19,755:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 18:58:19,755:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 18:58:19,763:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 18:58:19,763:INFO:common:created directory at:artifacts]
+[2023-12-24 18:58:19,763:INFO:common:created directory at:artifacts/data_transformation]
+[2023-12-24 19:01:51,438:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 19:01:51,442:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 19:01:51,445:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 19:01:51,447:INFO:common:created directory at:artifacts]
+[2023-12-24 19:01:51,449:INFO:common:created directory at:artifacts/data_transformation]
+[2023-12-24 19:01:51,465:INFO:1943558915:Splited data into training and test sets]
+[2023-12-24 19:01:51,468:INFO:1943558915:(225, 9)]
+[2023-12-24 19:01:51,468:INFO:1943558915:(76, 9)]
+[2023-12-24 19:08:48,943:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 19:08:48,943:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 19:08:48,952:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 19:08:48,952:INFO:common:created directory at:artifacts]
+[2023-12-24 19:08:48,952:INFO:common:created directory at:artifacts/data_transformation]
+[2023-12-24 19:08:48,968:INFO:2538054634:Splited data into training and test sets]
+[2023-12-24 19:08:48,969:INFO:2538054634:(225, 9)]
+[2023-12-24 19:08:48,969:INFO:2538054634:(76, 9)]
+[2023-12-24 19:09:56,244:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 19:09:56,248:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 19:09:56,258:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 19:09:56,258:INFO:common:created directory at:artifacts]
+[2023-12-24 19:09:56,258:INFO:common:created directory at:artifacts/data_transformation]
+[2023-12-24 19:09:56,273:INFO:2022513570:Splited data into training and test sets]
+[2023-12-24 19:09:56,273:INFO:2022513570:(225, 9)]
+[2023-12-24 19:09:56,279:INFO:2022513570:(76, 9)]
+[2023-12-24 19:11:04,627:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 19:11:04,630:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 19:11:04,633:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 19:11:04,633:INFO:common:created directory at:artifacts]
+[2023-12-24 19:11:04,640:INFO:common:created directory at:artifacts/data_transformation]
+[2023-12-24 19:11:04,648:INFO:2566341648:Splited data into training and test sets]
+[2023-12-24 19:11:04,648:INFO:2566341648:(225, 9)]
+[2023-12-24 19:11:04,656:INFO:2566341648:(76, 9)]
+[2023-12-24 19:11:57,438:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 19:11:57,438:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 19:11:57,443:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 19:11:57,446:INFO:common:created directory at:artifacts]
+[2023-12-24 19:11:57,450:INFO:common:created directory at:artifacts/data_transformation]
+[2023-12-24 19:11:57,463:INFO:1976963816:Splited data into training and test sets]
+[2023-12-24 19:11:57,463:INFO:1976963816:(225, 9)]
+[2023-12-24 19:11:57,463:INFO:1976963816:(76, 9)]
+[2023-12-24 20:12:03,312:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-12-24 20:12:03,312:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 20:12:03,312:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 20:12:03,312:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 20:12:03,320:INFO:common:created directory at:artifacts]
+[2023-12-24 20:12:03,321:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-24 20:12:03,983:ERROR:main:<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>]
+Traceback (most recent call last):
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1346, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1285, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1331, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1280, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1040, in _send_output
+    self.send(msg)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 980, in send
+    self.connect()
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1454, in connect
+    self.sock = self._context.wrap_socket(self.sock,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 501, in wrap_socket
+    return self.sslsocket_class._create(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 1041, in _create
+    self.do_handshake()
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 1310, in do_handshake
+    self._sslobj.do_handshake()
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\intershipgit\carmodel\intershiptask\main.py", line 27, in <module>
+    data_ingestion.main()
+  File "C:\intershipgit\carmodel\intershiptask\src\mlproject\pipeline\stage_01_data_ingestion.py", line 15, in main
+    data_ingestion.download_file()
+  File "C:\intershipgit\carmodel\intershiptask\src\mlproject\components\data_ingestion.py", line 15, in download_file
+    filename,headers =request.urlretrieve(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 239, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 523, in open
+    response = meth(req, response)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 632, in http_response
+    response = self.parent.error(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 555, in error
+    result = self._call_chain(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 494, in _call_chain
+    result = func(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 747, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 517, in open
+    response = self._open(req, data)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 534, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 494, in _call_chain
+    result = func(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1389, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1349, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+[2023-12-24 20:13:48,223:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-12-24 20:13:48,223:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 20:13:48,223:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 20:13:48,239:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 20:13:48,239:INFO:common:created directory at:artifacts]
+[2023-12-24 20:13:48,239:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-24 20:13:48,497:ERROR:main:<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>]
+Traceback (most recent call last):
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1346, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1285, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1331, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1280, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1040, in _send_output
+    self.send(msg)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 980, in send
+    self.connect()
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1454, in connect
+    self.sock = self._context.wrap_socket(self.sock,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 501, in wrap_socket
+    return self.sslsocket_class._create(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 1041, in _create
+    self.do_handshake()
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 1310, in do_handshake
+    self._sslobj.do_handshake()
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\intershipgit\carmodel\intershiptask\main.py", line 27, in <module>
+    data_ingestion.main()
+  File "C:\intershipgit\carmodel\intershiptask\src\mlproject\pipeline\stage_01_data_ingestion.py", line 15, in main
+    data_ingestion.download_file()
+  File "C:\intershipgit\carmodel\intershiptask\src\mlproject\components\data_ingestion.py", line 15, in download_file
+    filename,headers =request.urlretrieve(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 239, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 523, in open
+    response = meth(req, response)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 632, in http_response
+    response = self.parent.error(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 555, in error
+    result = self._call_chain(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 494, in _call_chain
+    result = func(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 747, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 517, in open
+    response = self._open(req, data)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 534, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 494, in _call_chain
+    result = func(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1389, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1349, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+[2023-12-24 20:22:49,589:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-12-24 20:22:49,591:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 20:22:49,591:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 20:22:49,591:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 20:22:49,591:INFO:common:created directory at:artifacts]
+[2023-12-24 20:22:49,597:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-24 20:23:12,083:ERROR:main:[WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond]
+Traceback (most recent call last):
+  File "C:\intershipgit\carmodel\intershiptask\main.py", line 27, in <module>
+    data_ingestion.main()
+  File "C:\intershipgit\carmodel\intershiptask\src\mlproject\pipeline\stage_01_data_ingestion.py", line 15, in main
+    data_ingestion.download_file()
+  File "C:\intershipgit\carmodel\intershiptask\src\mlproject\components\data_ingestion.py", line 15, in download_file
+    filename,headers =request.urlretrieve(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 239, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 523, in open
+    response = meth(req, response)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 632, in http_response
+    response = self.parent.error(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 555, in error
+    result = self._call_chain(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 494, in _call_chain
+    result = func(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 747, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 517, in open
+    response = self._open(req, data)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 534, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 494, in _call_chain
+    result = func(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1389, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1350, in do_open
+    r = h.getresponse()
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1377, in getresponse
+    response.begin()
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 320, in begin
+    version, status, reason = self._read_status()
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 281, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\socket.py", line 704, in readinto
+    return self._sock.recv_into(b)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 1242, in recv_into
+    return self.read(nbytes, buffer)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 1100, in read
+    return self._sslobj.read(len, buffer)
+TimeoutError: [WinError 10060] A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond
+[2023-12-24 20:24:11,384:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-12-24 20:24:11,384:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 20:24:11,384:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 20:24:11,384:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 20:24:11,384:INFO:common:created directory at:artifacts]
+[2023-12-24 20:24:11,391:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-24 20:24:12,077:ERROR:main:<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>]
+Traceback (most recent call last):
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1346, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1285, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1331, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1280, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1040, in _send_output
+    self.send(msg)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 980, in send
+    self.connect()
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1454, in connect
+    self.sock = self._context.wrap_socket(self.sock,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 501, in wrap_socket
+    return self.sslsocket_class._create(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 1041, in _create
+    self.do_handshake()
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 1310, in do_handshake
+    self._sslobj.do_handshake()
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\intershipgit\carmodel\intershiptask\main.py", line 27, in <module>
+    data_ingestion.main()
+  File "C:\intershipgit\carmodel\intershiptask\src\mlproject\pipeline\stage_01_data_ingestion.py", line 15, in main
+    data_ingestion.download_file()
+  File "C:\intershipgit\carmodel\intershiptask\src\mlproject\components\data_ingestion.py", line 15, in download_file
+    filename,headers =request.urlretrieve(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 239, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 523, in open
+    response = meth(req, response)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 632, in http_response
+    response = self.parent.error(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 555, in error
+    result = self._call_chain(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 494, in _call_chain
+    result = func(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 747, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 517, in open
+    response = self._open(req, data)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 534, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 494, in _call_chain
+    result = func(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1389, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1349, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+[2023-12-24 20:26:06,914:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-12-24 20:26:06,914:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 20:26:06,914:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 20:26:06,914:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 20:26:06,914:INFO:common:created directory at:artifacts]
+[2023-12-24 20:26:06,914:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-24 20:26:07,192:ERROR:main:<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>]
+Traceback (most recent call last):
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1346, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1285, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1331, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1280, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1040, in _send_output
+    self.send(msg)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 980, in send
+    self.connect()
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1454, in connect
+    self.sock = self._context.wrap_socket(self.sock,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 501, in wrap_socket
+    return self.sslsocket_class._create(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 1041, in _create
+    self.do_handshake()
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 1310, in do_handshake
+    self._sslobj.do_handshake()
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\intershipgit\carmodel\intershiptask\main.py", line 27, in <module>
+    data_ingestion.main()
+  File "C:\intershipgit\carmodel\intershiptask\src\mlproject\pipeline\stage_01_data_ingestion.py", line 15, in main
+    data_ingestion.download_file()
+  File "C:\intershipgit\carmodel\intershiptask\src\mlproject\components\data_ingestion.py", line 15, in download_file
+    filename,headers =request.urlretrieve(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 239, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 523, in open
+    response = meth(req, response)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 632, in http_response
+    response = self.parent.error(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 555, in error
+    result = self._call_chain(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 494, in _call_chain
+    result = func(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 747, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 517, in open
+    response = self._open(req, data)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 534, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 494, in _call_chain
+    result = func(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1389, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1349, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+[2023-12-24 20:26:31,348:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-12-24 20:26:31,348:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 20:26:31,348:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 20:26:31,348:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 20:26:31,364:INFO:common:created directory at:artifacts]
+[2023-12-24 20:26:31,365:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-24 20:26:32,230:ERROR:main:<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>]
+Traceback (most recent call last):
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1346, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1285, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1331, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1280, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1040, in _send_output
+    self.send(msg)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 980, in send
+    self.connect()
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1454, in connect
+    self.sock = self._context.wrap_socket(self.sock,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 501, in wrap_socket
+    return self.sslsocket_class._create(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 1041, in _create
+    self.do_handshake()
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 1310, in do_handshake
+    self._sslobj.do_handshake()
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\intershipgit\carmodel\intershiptask\main.py", line 27, in <module>
+    data_ingestion.main()
+  File "C:\intershipgit\carmodel\intershiptask\src\mlproject\pipeline\stage_01_data_ingestion.py", line 15, in main
+    data_ingestion.download_file()
+  File "C:\intershipgit\carmodel\intershiptask\src\mlproject\components\data_ingestion.py", line 15, in download_file
+    filename,headers =request.urlretrieve(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 239, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 523, in open
+    response = meth(req, response)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 632, in http_response
+    response = self.parent.error(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 555, in error
+    result = self._call_chain(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 494, in _call_chain
+    result = func(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 747, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 517, in open
+    response = self._open(req, data)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 534, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 494, in _call_chain
+    result = func(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1389, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1349, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+[2023-12-24 20:30:43,019:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 20:30:43,022:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 20:30:43,022:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 20:30:43,033:INFO:common:created directory at:artifacts]
+[2023-12-24 20:30:43,036:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-24 20:49:44,203:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 20:49:44,213:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 20:49:44,213:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 20:49:44,219:INFO:common:created directory at:artifacts]
+[2023-12-24 20:49:44,219:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-24 20:51:50,926:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 20:51:50,933:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 20:51:50,935:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 20:51:50,935:INFO:common:created directory at:artifacts]
+[2023-12-24 20:51:50,941:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-24 20:53:02,955:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 20:53:02,960:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 20:53:02,963:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 20:53:02,963:INFO:common:created directory at:artifacts]
+[2023-12-24 20:53:02,963:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-24 20:53:11,443:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 20:53:11,443:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 20:53:11,451:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 20:53:11,451:INFO:common:created directory at:artifacts]
+[2023-12-24 20:53:11,454:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-24 20:53:27,556:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 20:53:27,559:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 20:53:27,563:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 20:53:27,564:INFO:common:created directory at:artifacts]
+[2023-12-24 20:53:27,564:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-24 20:53:37,944:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 20:53:37,944:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 20:53:37,952:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 20:53:37,955:INFO:common:created directory at:artifacts]
+[2023-12-24 20:53:37,957:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-24 20:55:29,272:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 20:55:29,272:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 20:55:29,278:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 20:55:29,278:INFO:common:created directory at:artifacts]
+[2023-12-24 20:55:29,278:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-24 21:16:37,069:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 21:16:37,069:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 21:16:37,077:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 21:16:37,078:INFO:common:created directory at:artifacts]
+[2023-12-24 21:16:37,078:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-24 21:16:38,166:INFO:926414226:artifacts/data_ingestion/data.zip download with following info: 
+ Connection: close
+Content-Length: 3898
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "1e8268eece04b73f929c644872894f2c761460957a71981a3fcac6d2293b3bd2"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 26CE:0A05:16A1DCA:1BA868C:658845B8
+Accept-Ranges: bytes
+Date: Sun, 24 Dec 2023 15:46:28 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10243-MAA
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1703432788.183516,VS0,VE363
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 59ec113ef88767eac2865a2995b087d578b2e67a
+Expires: Sun, 24 Dec 2023 15:51:28 GMT
+Source-Age: 0
+
+]
+[2023-12-24 21:26:07,253:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-12-24 21:26:07,253:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 21:26:07,262:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 21:26:07,262:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 21:26:07,262:INFO:common:created directory at:artifacts]
+[2023-12-24 21:26:07,262:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-24 21:26:08,216:INFO:data_ingestion:artifacts/data_ingestion/data.zip download with following info: 
+ Connection: close
+Content-Length: 3898
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "1e8268eece04b73f929c644872894f2c761460957a71981a3fcac6d2293b3bd2"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 26CE:0A05:16A1DCA:1BA868C:658845B8
+Accept-Ranges: bytes
+Date: Sun, 24 Dec 2023 15:55:58 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10238-MAA
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1703433358.285329,VS0,VE353
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: a58446e3e1cd4652c14f5a95d842bc5367fbfbe0
+Expires: Sun, 24 Dec 2023 16:00:58 GMT
+Source-Age: 0
+
+]
+[2023-12-24 21:26:08,232:INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-12-24 21:26:08,232:INFO:main:>>>>>> stage Data Validation stage started <<<<<<]
+[2023-12-24 21:26:08,232:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 21:26:08,232:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 21:26:08,232:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 21:26:08,232:INFO:common:created directory at:artifacts]
+[2023-12-24 21:26:08,247:INFO:common:created directory at:artifacts/data_validation]
+[2023-12-24 21:26:08,281:INFO:main:>>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2023-12-24 21:26:08,281:INFO:main:>>>>>> stage Data Transformation stage started <<<<<<]
+[2023-12-24 21:26:08,285:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-24 21:26:08,295:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-24 21:26:08,295:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-24 21:26:08,295:INFO:common:created directory at:artifacts]
+[2023-12-24 21:26:08,295:INFO:common:created directory at:artifacts/data_transformation]
+[2023-12-24 21:26:08,329:INFO:data_transformation:Splited data into training and test sets]
+[2023-12-24 21:26:08,329:INFO:data_transformation:(225, 9)]
+[2023-12-24 21:26:08,329:INFO:data_transformation:(76, 9)]
+[2023-12-24 21:26:08,329:INFO:main:>>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2023-12-25 17:07:49,482:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-25 17:07:49,501:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-25 17:07:49,501:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-25 17:07:49,501:INFO:common:created directory at:artifacts]
+[2023-12-25 17:28:15,218:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-25 17:28:15,220:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-25 17:28:15,223:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-25 17:28:15,224:INFO:common:created directory at:artifacts]
+[2023-12-25 17:28:15,225:INFO:common:created directory at:artifacts/model_trainer]
+[2023-12-25 17:30:07,379:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-25 17:30:07,381:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-25 17:30:07,384:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-25 17:30:07,385:INFO:common:created directory at:artifacts]
+[2023-12-25 17:30:07,386:INFO:common:created directory at:artifacts/model_trainer]
+[2023-12-25 17:36:25,283:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-25 17:36:25,284:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-25 17:36:25,286:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-25 17:36:25,287:INFO:common:created directory at:artifacts]
+[2023-12-25 17:36:25,288:INFO:common:created directory at:artifacts/model_trainer]
+[2023-12-25 17:40:00,489:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-25 17:40:00,492:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-25 17:40:00,494:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-25 17:40:00,495:INFO:common:created directory at:artifacts]
+[2023-12-25 17:40:00,496:INFO:common:created directory at:artifacts/model_trainer]
+[2023-12-25 17:41:25,236:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-12-25 17:41:25,238:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-25 17:41:25,240:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-25 17:41:25,241:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-25 17:41:25,241:INFO:common:created directory at:artifacts]
+[2023-12-25 17:41:25,242:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-25 17:41:25,784:ERROR:main:<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>]
+Traceback (most recent call last):
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1346, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1285, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1331, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1280, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1040, in _send_output
+    self.send(msg)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 980, in send
+    self.connect()
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1454, in connect
+    self.sock = self._context.wrap_socket(self.sock,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 501, in wrap_socket
+    return self.sslsocket_class._create(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 1041, in _create
+    self.do_handshake()
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 1310, in do_handshake
+    self._sslobj.do_handshake()
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\intershipgit\carmodel\intershiptask\main.py", line 27, in <module>
+    data_ingestion.main()
+  File "C:\intershipgit\carmodel\intershiptask\src\mlproject\pipeline\stage_01_data_ingestion.py", line 15, in main
+    data_ingestion.download_file()
+  File "C:\intershipgit\carmodel\intershiptask\src\mlproject\components\data_ingestion.py", line 15, in download_file
+    filename,headers =request.urlretrieve(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 239, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 523, in open
+    response = meth(req, response)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 632, in http_response
+    response = self.parent.error(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 555, in error
+    result = self._call_chain(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 494, in _call_chain
+    result = func(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 747, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 517, in open
+    response = self._open(req, data)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 534, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 494, in _call_chain
+    result = func(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1389, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1349, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+[2023-12-25 17:41:45,531:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-12-25 17:41:45,531:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-25 17:41:45,547:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-25 17:41:45,547:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-25 17:41:45,547:INFO:common:created directory at:artifacts]
+[2023-12-25 17:41:45,551:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-25 17:41:45,786:ERROR:main:<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>]
+Traceback (most recent call last):
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1346, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1285, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1331, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1280, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1040, in _send_output
+    self.send(msg)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 980, in send
+    self.connect()
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1454, in connect
+    self.sock = self._context.wrap_socket(self.sock,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 501, in wrap_socket
+    return self.sslsocket_class._create(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 1041, in _create
+    self.do_handshake()
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 1310, in do_handshake
+    self._sslobj.do_handshake()
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\intershipgit\carmodel\intershiptask\main.py", line 27, in <module>
+    data_ingestion.main()
+  File "C:\intershipgit\carmodel\intershiptask\src\mlproject\pipeline\stage_01_data_ingestion.py", line 15, in main
+    data_ingestion.download_file()
+  File "C:\intershipgit\carmodel\intershiptask\src\mlproject\components\data_ingestion.py", line 15, in download_file
+    filename,headers =request.urlretrieve(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 239, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 523, in open
+    response = meth(req, response)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 632, in http_response
+    response = self.parent.error(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 555, in error
+    result = self._call_chain(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 494, in _call_chain
+    result = func(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 747, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 517, in open
+    response = self._open(req, data)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 534, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 494, in _call_chain
+    result = func(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1389, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1349, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+[2023-12-25 17:42:20,845:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-25 17:42:20,848:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-25 17:42:20,848:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-25 17:42:20,848:INFO:common:created directory at:artifacts]
+[2023-12-25 17:42:20,848:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-25 18:01:58,325:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-25 18:01:58,327:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-25 18:01:58,330:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-25 18:01:58,331:INFO:common:created directory at:artifacts]
+[2023-12-25 18:01:58,331:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-25 18:02:30,190:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-25 18:02:30,192:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-25 18:02:30,194:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-25 18:02:30,196:INFO:common:created directory at:artifacts]
+[2023-12-25 18:02:30,197:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-25 18:06:14,760:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-12-25 18:06:14,776:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-25 18:06:14,776:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-25 18:06:14,776:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-25 18:06:14,776:INFO:common:created directory at:artifacts]
+[2023-12-25 18:06:14,776:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-25 18:06:15,278:ERROR:main:<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>]
+Traceback (most recent call last):
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1346, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1285, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1331, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1280, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1040, in _send_output
+    self.send(msg)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 980, in send
+    self.connect()
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1454, in connect
+    self.sock = self._context.wrap_socket(self.sock,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 501, in wrap_socket
+    return self.sslsocket_class._create(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 1041, in _create
+    self.do_handshake()
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 1310, in do_handshake
+    self._sslobj.do_handshake()
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\intershipgit\carmodel\intershiptask\main.py", line 27, in <module>
+    data_ingestion.main()
+  File "C:\intershipgit\carmodel\intershiptask\src\mlproject\pipeline\stage_01_data_ingestion.py", line 15, in main
+    data_ingestion.download_file()
+  File "C:\intershipgit\carmodel\intershiptask\src\mlproject\components\data_ingestion.py", line 15, in download_file
+    filename,headers =request.urlretrieve(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 239, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 523, in open
+    response = meth(req, response)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 632, in http_response
+    response = self.parent.error(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 555, in error
+    result = self._call_chain(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 494, in _call_chain
+    result = func(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 747, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 517, in open
+    response = self._open(req, data)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 534, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 494, in _call_chain
+    result = func(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1389, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1349, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+[2023-12-25 18:08:01,029:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-12-25 18:08:01,029:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-25 18:08:01,029:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-25 18:08:01,038:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-25 18:08:01,038:INFO:common:created directory at:artifacts]
+[2023-12-25 18:08:01,038:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-25 18:08:01,667:ERROR:main:<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>]
+Traceback (most recent call last):
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1346, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1285, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1331, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1280, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1040, in _send_output
+    self.send(msg)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 980, in send
+    self.connect()
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1454, in connect
+    self.sock = self._context.wrap_socket(self.sock,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 501, in wrap_socket
+    return self.sslsocket_class._create(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 1041, in _create
+    self.do_handshake()
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 1310, in do_handshake
+    self._sslobj.do_handshake()
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\intershipgit\carmodel\intershiptask\main.py", line 27, in <module>
+    data_ingestion.main()
+  File "C:\intershipgit\carmodel\intershiptask\src\mlproject\pipeline\stage_01_data_ingestion.py", line 15, in main
+    data_ingestion.download_file()
+  File "C:\intershipgit\carmodel\intershiptask\src\mlproject\components\data_ingestion.py", line 15, in download_file
+    filename,headers =request.urlretrieve(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 239, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 523, in open
+    response = meth(req, response)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 632, in http_response
+    response = self.parent.error(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 555, in error
+    result = self._call_chain(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 494, in _call_chain
+    result = func(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 747, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 517, in open
+    response = self._open(req, data)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 534, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 494, in _call_chain
+    result = func(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1389, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1349, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+[2023-12-25 18:09:09,145:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-12-25 18:09:09,145:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-25 18:09:09,153:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-25 18:09:09,153:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-25 18:09:09,153:INFO:common:created directory at:artifacts]
+[2023-12-25 18:09:09,153:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-25 18:09:09,749:ERROR:main:<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>]
+Traceback (most recent call last):
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1346, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1285, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1331, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1280, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1040, in _send_output
+    self.send(msg)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 980, in send
+    self.connect()
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1454, in connect
+    self.sock = self._context.wrap_socket(self.sock,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 501, in wrap_socket
+    return self.sslsocket_class._create(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 1041, in _create
+    self.do_handshake()
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 1310, in do_handshake
+    self._sslobj.do_handshake()
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\intershipgit\carmodel\intershiptask\main.py", line 27, in <module>
+    data_ingestion.main()
+  File "C:\intershipgit\carmodel\intershiptask\src\mlproject\pipeline\stage_01_data_ingestion.py", line 15, in main
+    data_ingestion.download_file()
+  File "C:\intershipgit\carmodel\intershiptask\src\mlproject\components\data_ingestion.py", line 15, in download_file
+    filename,headers =request.urlretrieve(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 239, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 523, in open
+    response = meth(req, response)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 632, in http_response
+    response = self.parent.error(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 555, in error
+    result = self._call_chain(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 494, in _call_chain
+    result = func(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 747, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 517, in open
+    response = self._open(req, data)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 534, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 494, in _call_chain
+    result = func(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1389, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1349, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+[2023-12-25 18:09:22,008:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-12-25 18:09:22,017:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-25 18:09:22,017:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-25 18:09:22,017:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-25 18:09:22,017:INFO:common:created directory at:artifacts]
+[2023-12-25 18:09:22,023:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-25 18:09:22,564:ERROR:main:<urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>]
+Traceback (most recent call last):
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1346, in do_open
+    h.request(req.get_method(), req.selector, req.data, headers,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1285, in request
+    self._send_request(method, url, body, headers, encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1331, in _send_request
+    self.endheaders(body, encode_chunked=encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1280, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1040, in _send_output
+    self.send(msg)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 980, in send
+    self.connect()
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\http\client.py", line 1454, in connect
+    self.sock = self._context.wrap_socket(self.sock,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 501, in wrap_socket
+    return self.sslsocket_class._create(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 1041, in _create
+    self.do_handshake()
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\ssl.py", line 1310, in do_handshake
+    self._sslobj.do_handshake()
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\intershipgit\carmodel\intershiptask\main.py", line 27, in <module>
+    data_ingestion.main()
+  File "C:\intershipgit\carmodel\intershiptask\src\mlproject\pipeline\stage_01_data_ingestion.py", line 15, in main
+    data_ingestion.download_file()
+  File "C:\intershipgit\carmodel\intershiptask\src\mlproject\components\data_ingestion.py", line 15, in download_file
+    filename,headers =request.urlretrieve(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 239, in urlretrieve
+    with contextlib.closing(urlopen(url, data)) as fp:
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 214, in urlopen
+    return opener.open(url, data, timeout)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 523, in open
+    response = meth(req, response)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 632, in http_response
+    response = self.parent.error(
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 555, in error
+    result = self._call_chain(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 494, in _call_chain
+    result = func(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 747, in http_error_302
+    return self.parent.open(new, timeout=req.timeout)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 517, in open
+    response = self._open(req, data)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 534, in _open
+    result = self._call_chain(self.handle_open, protocol, protocol +
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 494, in _call_chain
+    result = func(*args)
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1389, in https_open
+    return self.do_open(http.client.HTTPSConnection, req,
+  File "C:\Users\lijol\AppData\Local\Programs\Python\Python39\lib\urllib\request.py", line 1349, in do_open
+    raise URLError(err)
+urllib.error.URLError: <urlopen error [WinError 10054] An existing connection was forcibly closed by the remote host>
+[2023-12-25 18:11:11,022:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-25 18:11:11,031:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-25 18:11:11,031:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-25 18:11:11,039:INFO:common:created directory at:artifacts]
+[2023-12-25 18:11:11,039:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-25 18:11:22,463:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-25 18:11:22,463:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-25 18:11:22,463:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-25 18:11:22,471:INFO:common:created directory at:artifacts]
+[2023-12-25 18:11:22,471:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-25 18:14:32,092:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-25 18:14:32,103:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-25 18:14:32,103:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-25 18:14:32,109:INFO:common:created directory at:artifacts]
+[2023-12-25 18:14:32,109:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-25 18:14:52,465:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-25 18:14:52,474:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-25 18:14:52,475:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-25 18:14:52,475:INFO:common:created directory at:artifacts]
+[2023-12-25 18:14:52,483:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-25 18:18:39,958:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-25 18:18:39,966:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-25 18:18:39,966:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-25 18:18:39,974:INFO:common:created directory at:artifacts]
+[2023-12-25 18:18:39,978:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-25 18:18:46,542:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-25 18:18:46,550:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-25 18:18:46,550:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-25 18:18:46,555:INFO:common:created directory at:artifacts]
+[2023-12-25 18:18:46,555:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-25 18:18:52,127:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-25 18:18:52,130:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-25 18:18:52,134:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-25 18:18:52,134:INFO:common:created directory at:artifacts]
+[2023-12-25 18:18:52,134:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-25 18:23:09,809:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-25 18:23:09,813:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-25 18:23:09,813:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-25 18:23:09,817:INFO:common:created directory at:artifacts]
+[2023-12-25 18:23:09,817:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-25 18:23:15,073:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-25 18:23:15,076:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-25 18:23:15,080:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-25 18:23:15,080:INFO:common:created directory at:artifacts]
+[2023-12-25 18:23:15,080:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-25 18:32:31,516:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-25 18:32:31,524:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-25 18:32:31,524:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-25 18:32:31,524:INFO:common:created directory at:artifacts]
+[2023-12-25 18:32:31,532:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-25 18:55:40,954:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-25 18:55:40,960:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-25 18:55:40,963:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-25 18:55:40,963:INFO:common:created directory at:artifacts]
+[2023-12-25 18:55:40,963:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-25 19:32:50,157:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-25 19:32:50,162:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-25 19:32:50,167:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-25 19:32:50,168:INFO:common:created directory at:artifacts]
+[2023-12-25 19:32:50,173:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-25 19:32:51,427:INFO:926414226:artifacts/data_ingestion/data.zip download with following info: 
+ Connection: close
+Content-Length: 3898
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "1e8268eece04b73f929c644872894f2c761460957a71981a3fcac6d2293b3bd2"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: BBFC:1036:1A4A40C:20699F1:65898B7F
+Accept-Ranges: bytes
+Date: Mon, 25 Dec 2023 14:02:40 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10249-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1703512960.818484,VS0,VE644
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 8ce35de70f936a7f975aa74da90a78fd76d1995a
+Expires: Mon, 25 Dec 2023 14:07:40 GMT
+Source-Age: 0
+
+]
+[2023-12-25 19:35:28,858:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-12-25 19:35:28,858:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-25 19:35:28,866:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-25 19:35:28,866:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-25 19:35:28,866:INFO:common:created directory at:artifacts]
+[2023-12-25 19:35:28,866:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-25 19:35:28,866:INFO:data_ingestion:file already exists of size:~4]
+[2023-12-25 19:35:28,866:INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-12-25 19:35:28,874:INFO:main:>>>>>> stage Data Validation stage started <<<<<<]
+[2023-12-25 19:35:28,874:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-25 19:35:28,874:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-25 19:35:28,874:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-25 19:35:28,883:INFO:common:created directory at:artifacts]
+[2023-12-25 19:35:28,885:INFO:common:created directory at:artifacts/data_validation]
+[2023-12-25 19:35:28,924:INFO:main:>>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2023-12-25 19:35:28,925:INFO:main:>>>>>> stage Data Transformation stage started <<<<<<]
+[2023-12-25 19:35:28,936:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-25 19:35:28,936:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-25 19:35:28,936:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-25 19:35:28,946:INFO:common:created directory at:artifacts]
+[2023-12-25 19:35:28,946:INFO:common:created directory at:artifacts/data_transformation]
+[2023-12-25 19:35:28,972:INFO:data_transformation:Splited data into training and test sets]
+[2023-12-25 19:35:28,972:INFO:data_transformation:(225, 9)]
+[2023-12-25 19:35:28,973:INFO:data_transformation:(76, 9)]
+[2023-12-25 19:35:28,973:INFO:main:>>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2023-12-26 01:37:38,894:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-26 01:37:38,894:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-26 01:37:38,902:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-26 01:37:38,905:INFO:common:created directory at:artifacts]
+[2023-12-26 01:37:38,907:INFO:common:created directory at:artifacts/model_trainer]
+[2023-12-26 01:44:01,165:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-26 01:44:01,169:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-26 01:44:01,184:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-26 01:44:01,184:INFO:common:created directory at:artifacts]
+[2023-12-26 01:44:01,184:INFO:common:created directory at:artifacts/model_trainer]
+[2023-12-26 01:44:39,202:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-26 01:44:39,208:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-26 01:44:39,213:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-26 01:44:39,216:INFO:common:created directory at:artifacts]
+[2023-12-26 01:44:39,216:INFO:common:created directory at:artifacts/model_trainer]
+[2023-12-26 01:49:29,009:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-26 01:49:29,014:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-26 01:49:29,017:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-26 01:49:29,017:INFO:common:created directory at:artifacts]
+[2023-12-26 01:49:29,026:INFO:common:created directory at:artifacts/model_trainer]
+[2023-12-26 01:51:38,200:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-26 01:51:38,202:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-26 01:51:38,214:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-26 01:51:38,219:INFO:common:created directory at:artifacts]
+[2023-12-26 01:51:38,219:INFO:common:created directory at:artifacts/model_trainer]
+[2023-12-26 01:55:02,034:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-26 01:55:02,044:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-26 01:55:02,050:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-26 01:55:02,050:INFO:common:created directory at:artifacts]
+[2023-12-26 01:55:02,050:INFO:common:created directory at:artifacts/model_trainer]
+[2023-12-26 01:55:12,632:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-26 01:55:12,632:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-26 01:55:12,641:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-26 01:55:12,641:INFO:common:created directory at:artifacts]
+[2023-12-26 01:55:12,641:INFO:common:created directory at:artifacts/model_trainer]
+[2023-12-26 01:58:06,136:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-26 01:58:06,144:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-26 01:58:06,152:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-26 01:58:06,152:INFO:common:created directory at:artifacts]
+[2023-12-26 01:58:06,160:INFO:common:created directory at:artifacts/model_trainer]
+[2023-12-26 02:02:39,596:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-26 02:02:39,601:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-26 02:02:39,604:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-26 02:02:39,604:INFO:common:created directory at:artifacts]
+[2023-12-26 02:02:39,604:INFO:common:created directory at:artifacts/model_trainer]
+[2023-12-26 02:05:10,925:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-26 02:05:10,934:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-26 02:05:10,934:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-26 02:05:10,940:INFO:common:created directory at:artifacts]
+[2023-12-26 02:05:10,940:INFO:common:created directory at:artifacts/model_trainer]
+[2023-12-26 02:06:01,491:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-26 02:06:01,497:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-26 02:06:01,497:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-26 02:06:01,497:INFO:common:created directory at:artifacts]
+[2023-12-26 02:06:01,505:INFO:common:created directory at:artifacts/model_trainer]
+[2023-12-26 14:45:07,678:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-12-26 14:45:07,694:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-26 14:45:07,701:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-26 14:45:07,712:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-26 14:45:07,718:INFO:common:created directory at:artifacts]
+[2023-12-26 14:45:07,719:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-26 14:45:08,773:INFO:data_ingestion:artifacts/data_ingestion/data.zip download with following info: 
+ Connection: close
+Content-Length: 3898
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "1e8268eece04b73f929c644872894f2c761460957a71981a3fcac6d2293b3bd2"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 3258:31AE:1AA00A3:2149A89:658A998E
+Accept-Ranges: bytes
+Date: Tue, 26 Dec 2023 09:14:55 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10236-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1703582095.778850,VS0,VE341
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: de85fa036076fd4c7e4ddb6b8a481bdb4aab94ce
+Expires: Tue, 26 Dec 2023 09:19:55 GMT
+Source-Age: 0
+
+]
+[2023-12-26 14:45:08,789:INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-12-26 14:45:08,795:INFO:main:>>>>>> stage Data Validation stage started <<<<<<]
+[2023-12-26 14:45:08,797:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-26 14:45:08,797:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-26 14:45:08,797:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-26 14:45:08,804:INFO:common:created directory at:artifacts]
+[2023-12-26 14:45:08,805:INFO:common:created directory at:artifacts/data_validation]
+[2023-12-26 14:45:08,856:INFO:main:>>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2023-12-26 14:45:08,864:INFO:main:>>>>>> stage Data Transformation stage started <<<<<<]
+[2023-12-26 14:45:08,873:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-26 14:45:08,873:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-26 14:45:08,873:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-26 14:45:08,873:INFO:common:created directory at:artifacts]
+[2023-12-26 14:45:08,873:INFO:common:created directory at:artifacts/data_transformation]
+[2023-12-26 14:45:08,906:INFO:data_transformation:Splited data into training and test sets]
+[2023-12-26 14:45:08,906:INFO:data_transformation:(225, 9)]
+[2023-12-26 14:45:08,906:INFO:data_transformation:(76, 9)]
+[2023-12-26 14:45:08,914:INFO:main:>>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2023-12-26 14:45:08,914:INFO:main:>>>>>> stage Model Trainer stage started <<<<<<]
+[2023-12-26 14:45:08,916:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-26 14:45:08,916:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-26 14:45:08,916:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-26 14:45:08,921:INFO:common:created directory at:artifacts]
+[2023-12-26 14:45:08,924:INFO:common:created directory at:artifacts/model_trainer]
+[2023-12-26 14:45:09,307:INFO:main:>>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2023-12-26 18:15:20,600:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-26 18:15:20,608:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-26 18:15:20,608:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-26 18:15:20,616:INFO:common:created directory at:artifacts]
+[2023-12-26 18:16:14,057:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-26 18:16:14,057:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-26 18:16:14,066:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-26 18:16:14,067:INFO:common:created directory at:artifacts]
+[2023-12-26 18:16:14,067:INFO:common:created directory at:artifacts/model_evaluation]
+[2023-12-26 18:17:25,836:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-26 18:17:25,840:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-26 18:17:25,844:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-26 18:17:25,844:INFO:common:created directory at:artifacts]
+[2023-12-26 18:17:25,844:INFO:common:created directory at:artifacts/model_evaluation]
+[2023-12-26 18:17:25,901:INFO:common:json file saved at:artifacts\model_evaluation\metrics.json]
+[2023-12-26 23:15:15,207:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-26 23:15:15,215:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-26 23:15:15,215:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-26 23:15:15,215:INFO:common:created directory at:artifacts]
+[2023-12-26 23:15:15,223:INFO:common:created directory at:artifacts/model_evaluation]
+[2023-12-26 23:15:57,247:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-26 23:15:57,247:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-26 23:15:57,256:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-26 23:15:57,257:INFO:common:created directory at:artifacts]
+[2023-12-26 23:15:57,257:INFO:common:created directory at:artifacts/model_evaluation]
+[2023-12-26 23:15:57,403:INFO:common:json file saved at:artifacts\model_evaluation\metrics.json]
+[2023-12-26 23:30:42,228:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2023-12-26 23:30:42,233:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-26 23:30:42,233:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-26 23:30:42,240:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-26 23:30:42,247:INFO:common:created directory at:artifacts]
+[2023-12-26 23:30:42,252:INFO:common:created directory at:artifacts/data_ingestion]
+[2023-12-26 23:30:43,349:INFO:data_ingestion:artifacts/data_ingestion/data.zip download with following info: 
+ Connection: close
+Content-Length: 3898
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "1e8268eece04b73f929c644872894f2c761460957a71981a3fcac6d2293b3bd2"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 8F5C:112D:75B48A:962186:658B14BC
+Accept-Ranges: bytes
+Date: Tue, 26 Dec 2023 18:00:28 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10248-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1703613629.611532,VS0,VE300
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: b23ef62c4105e9dcda5171bf95d1d5d36c400d53
+Expires: Tue, 26 Dec 2023 18:05:28 GMT
+Source-Age: 0
+
+]
+[2023-12-26 23:30:43,363:INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2023-12-26 23:30:43,363:INFO:main:>>>>>> stage Data Validation stage started <<<<<<]
+[2023-12-26 23:30:43,366:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-26 23:30:43,366:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-26 23:30:43,374:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-26 23:30:43,374:INFO:common:created directory at:artifacts]
+[2023-12-26 23:30:43,374:INFO:common:created directory at:artifacts/data_validation]
+[2023-12-26 23:30:43,414:INFO:main:>>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2023-12-26 23:30:43,414:INFO:main:>>>>>> stage Data Transformation stage started <<<<<<]
+[2023-12-26 23:30:43,426:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-26 23:30:43,426:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-26 23:30:43,426:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-26 23:30:43,426:INFO:common:created directory at:artifacts]
+[2023-12-26 23:30:43,437:INFO:common:created directory at:artifacts/data_transformation]
+[2023-12-26 23:30:43,462:INFO:data_transformation:Splited data into training and test sets]
+[2023-12-26 23:30:43,462:INFO:data_transformation:(225, 9)]
+[2023-12-26 23:30:43,462:INFO:data_transformation:(76, 9)]
+[2023-12-26 23:30:43,462:INFO:main:>>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2023-12-26 23:30:43,462:INFO:main:>>>>>> stage Model Trainer stage started <<<<<<]
+[2023-12-26 23:30:43,462:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-26 23:30:43,471:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-26 23:30:43,471:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-26 23:30:43,471:INFO:common:created directory at:artifacts]
+[2023-12-26 23:30:43,476:INFO:common:created directory at:artifacts/model_trainer]
+[2023-12-26 23:30:43,777:INFO:main:>>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2023-12-26 23:30:43,785:INFO:main:>>>>>> stage Model evaluation stage started <<<<<<]
+[2023-12-26 23:30:43,785:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2023-12-26 23:30:43,785:INFO:common:yaml file:params.yamlloaded successfully]
+[2023-12-26 23:30:43,792:INFO:common:yaml file:schema.yamlloaded successfully]
+[2023-12-26 23:30:43,792:INFO:common:created directory at:artifacts]
+[2023-12-26 23:30:43,795:INFO:common:created directory at:artifacts/model_evaluation]
+[2023-12-26 23:30:43,845:INFO:common:json file saved at:artifacts\model_evaluation\metrics.json]
+[2023-12-26 23:30:43,852:INFO:main:>>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]
+[2023-12-27 13:07:29,314:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 13:07:29,316:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 13:08:24,163:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 13:08:24,163:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 13:08:39,550:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 13:08:39,550:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 13:08:59,935:INFO:_internal:127.0.0.1 - - [27/Dec/2023 13:08:59] "GET / HTTP/1.1" 200 -]
+[2023-12-27 13:09:00,054:INFO:_internal:127.0.0.1 - - [27/Dec/2023 13:09:00] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2023-12-27 13:11:45,652:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 13:11:45,658:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 13:12:02,474:INFO:_internal:127.0.0.1 - - [27/Dec/2023 13:12:02] "GET / HTTP/1.1" 200 -]
+[2023-12-27 13:52:56,331:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.1.4:5000]
+[2023-12-27 13:52:56,331:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 13:53:52,192:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 13:53:52,192:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 13:53:55,580:INFO:_internal:127.0.0.1 - - [27/Dec/2023 13:53:55] "GET / HTTP/1.1" 200 -]
+[2023-12-27 13:56:56,736:INFO:_internal:127.0.0.1 - - [27/Dec/2023 13:56:56] "GET / HTTP/1.1" 200 -]
+[2023-12-27 13:58:31,162:INFO:_internal:127.0.0.1 - - [27/Dec/2023 13:58:31] "GET / HTTP/1.1" 200 -]
+[2023-12-27 13:58:40,360:INFO:_internal:127.0.0.1 - - [27/Dec/2023 13:58:40] "GET / HTTP/1.1" 200 -]
+[2023-12-27 13:58:55,378:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 13:58:55,378:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 13:58:59,899:INFO:_internal:127.0.0.1 - - [27/Dec/2023 13:58:59] "GET / HTTP/1.1" 200 -]
+[2023-12-27 14:01:34,061:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 14:01:34,061:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 14:01:38,570:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:01:38] "GET / HTTP/1.1" 200 -]
+[2023-12-27 14:02:40,997:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:02:40] "GET / HTTP/1.1" 200 -]
+[2023-12-27 14:02:57,619:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 14:02:57,619:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 14:03:00,651:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:03:00] "GET / HTTP/1.1" 200 -]
+[2023-12-27 14:07:59,351:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 14:07:59,351:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 14:08:04,107:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:08:04] "GET / HTTP/1.1" 200 -]
+[2023-12-27 14:08:04,257:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:08:04] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -]
+[2023-12-27 14:08:06,184:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:08:06] "GET / HTTP/1.1" 200 -]
+[2023-12-27 14:08:06,245:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:08:06] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -]
+[2023-12-27 14:10:48,988:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 14:10:48,990:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 14:10:54,398:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:10:54] "GET / HTTP/1.1" 200 -]
+[2023-12-27 14:10:54,565:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:10:54] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -]
+[2023-12-27 14:10:56,665:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:10:56] "GET / HTTP/1.1" 200 -]
+[2023-12-27 14:10:56,711:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:10:56] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -]
+[2023-12-27 14:11:15,095:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 14:11:15,095:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 14:11:17,950:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:11:17] "GET / HTTP/1.1" 200 -]
+[2023-12-27 14:11:18,045:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:11:18] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -]
+[2023-12-27 14:11:19,879:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:11:19] "GET / HTTP/1.1" 200 -]
+[2023-12-27 14:11:19,915:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:11:19] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -]
+[2023-12-27 14:13:51,131:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 14:13:51,131:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 14:13:56,057:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:13:56] "GET / HTTP/1.1" 200 -]
+[2023-12-27 14:13:56,180:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:13:56] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -]
+[2023-12-27 14:13:57,966:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:13:57] "GET / HTTP/1.1" 200 -]
+[2023-12-27 14:13:58,002:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:13:58] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -]
+[2023-12-27 14:13:58,214:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:13:58] "GET / HTTP/1.1" 200 -]
+[2023-12-27 14:13:58,250:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:13:58] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -]
+[2023-12-27 14:13:58,357:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:13:58] "GET / HTTP/1.1" 200 -]
+[2023-12-27 14:13:58,379:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:13:58] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -]
+[2023-12-27 14:13:58,570:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:13:58] "GET / HTTP/1.1" 200 -]
+[2023-12-27 14:13:58,607:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:13:58] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -]
+[2023-12-27 14:14:46,338:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 14:14:46,338:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 14:14:51,687:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:14:51] "GET / HTTP/1.1" 200 -]
+[2023-12-27 14:14:51,861:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:14:51] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -]
+[2023-12-27 14:14:54,666:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:14:54] "GET / HTTP/1.1" 200 -]
+[2023-12-27 14:14:54,695:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:14:54] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -]
+[2023-12-27 14:19:26,293:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 14:19:26,300:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 14:19:29,326:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:19:29] "GET / HTTP/1.1" 200 -]
+[2023-12-27 14:19:29,518:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:19:29] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -]
+[2023-12-27 14:19:31,286:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:19:31] "GET / HTTP/1.1" 200 -]
+[2023-12-27 14:19:31,330:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:19:31] "[33mGET /static/css/styles.css HTTP/1.1[0m" 404 -]
+[2023-12-27 14:21:05,322:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 14:21:05,322:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 14:21:08,415:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:21:08] "GET / HTTP/1.1" 200 -]
+[2023-12-27 14:21:08,573:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:21:08] "[33mGET /styles.css HTTP/1.1[0m" 404 -]
+[2023-12-27 14:21:10,313:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:21:10] "GET / HTTP/1.1" 200 -]
+[2023-12-27 14:21:10,349:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:21:10] "[33mGET /styles.css HTTP/1.1[0m" 404 -]
+[2023-12-27 14:22:38,299:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 14:22:38,299:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 14:23:30,958:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 14:23:30,962:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 14:23:35,094:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:23:35] "GET / HTTP/1.1" 200 -]
+[2023-12-27 14:23:35,468:INFO:_internal:127.0.0.1 - - [27/Dec/2023 14:23:35] "GET /static/css/style.css HTTP/1.1" 200 -]
+[2023-12-27 16:14:28,203:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 16:14:28,203:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 16:14:31,530:INFO:_internal:127.0.0.1 - - [27/Dec/2023 16:14:31] "GET / HTTP/1.1" 200 -]
+[2023-12-27 16:14:31,884:INFO:_internal:127.0.0.1 - - [27/Dec/2023 16:14:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -]
+[2023-12-27 16:15:48,357:INFO:_internal:127.0.0.1 - - [27/Dec/2023 16:15:48] "POST /predict HTTP/1.1" 200 -]
+[2023-12-27 16:17:57,112:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 16:17:57,112:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 16:18:00,764:INFO:_internal:127.0.0.1 - - [27/Dec/2023 16:18:00] "GET / HTTP/1.1" 200 -]
+[2023-12-27 16:18:01,158:INFO:_internal:127.0.0.1 - - [27/Dec/2023 16:18:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -]
+[2023-12-27 16:18:25,716:INFO:_internal:127.0.0.1 - - [27/Dec/2023 16:18:25] "POST /predict HTTP/1.1" 200 -]
+[2023-12-27 16:25:30,327:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 16:25:30,327:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 16:25:40,204:INFO:_internal:127.0.0.1 - - [27/Dec/2023 16:25:40] "GET / HTTP/1.1" 200 -]
+[2023-12-27 16:25:40,651:INFO:_internal:127.0.0.1 - - [27/Dec/2023 16:25:40] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -]
+[2023-12-27 16:25:59,649:INFO:_internal:127.0.0.1 - - [27/Dec/2023 16:25:59] "POST /predict HTTP/1.1" 200 -]
+[2023-12-27 16:29:21,808:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 16:29:21,808:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 16:29:25,155:INFO:_internal:127.0.0.1 - - [27/Dec/2023 16:29:25] "GET / HTTP/1.1" 200 -]
+[2023-12-27 16:29:25,527:INFO:_internal:127.0.0.1 - - [27/Dec/2023 16:29:25] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -]
+[2023-12-27 16:29:41,225:INFO:_internal:127.0.0.1 - - [27/Dec/2023 16:29:41] "POST /predict HTTP/1.1" 200 -]
+[2023-12-27 16:36:01,232:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 16:36:01,235:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 16:36:04,571:INFO:_internal:127.0.0.1 - - [27/Dec/2023 16:36:04] "GET / HTTP/1.1" 200 -]
+[2023-12-27 16:36:04,878:INFO:_internal:127.0.0.1 - - [27/Dec/2023 16:36:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -]
+[2023-12-27 16:36:18,976:INFO:_internal:127.0.0.1 - - [27/Dec/2023 16:36:18] "POST /predict HTTP/1.1" 200 -]
+[2023-12-27 16:37:31,758:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 16:37:31,758:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 16:37:34,540:INFO:_internal:127.0.0.1 - - [27/Dec/2023 16:37:34] "GET / HTTP/1.1" 200 -]
+[2023-12-27 16:37:34,936:INFO:_internal:127.0.0.1 - - [27/Dec/2023 16:37:34] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -]
+[2023-12-27 16:37:51,545:INFO:_internal:127.0.0.1 - - [27/Dec/2023 16:37:51] "POST /predict HTTP/1.1" 200 -]
+[2023-12-27 16:38:44,576:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 16:38:44,576:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 16:38:47,257:INFO:_internal:127.0.0.1 - - [27/Dec/2023 16:38:47] "GET / HTTP/1.1" 200 -]
+[2023-12-27 16:38:47,643:INFO:_internal:127.0.0.1 - - [27/Dec/2023 16:38:47] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -]
+[2023-12-27 16:39:06,884:ERROR:app:Exception on /predict [POST]]
+Traceback (most recent call last):
+  File "C:\intershipgit\carmodel\intershiptask\myenv\lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\intershipgit\carmodel\intershiptask\myenv\lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\intershipgit\carmodel\intershiptask\myenv\lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\intershipgit\carmodel\intershiptask\myenv\lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\intershipgit\carmodel\intershiptask\app.py", line 45, in index
+    return render_template('results.html', prediction = str(predict))
+  File "C:\intershipgit\carmodel\intershiptask\myenv\lib\site-packages\flask\templating.py", line 150, in render_template
+    template = app.jinja_env.get_or_select_template(template_name_or_list)
+  File "C:\intershipgit\carmodel\intershiptask\myenv\lib\site-packages\jinja2\environment.py", line 1081, in get_or_select_template
+    return self.get_template(template_name_or_list, parent, globals)
+  File "C:\intershipgit\carmodel\intershiptask\myenv\lib\site-packages\jinja2\environment.py", line 1010, in get_template
+    return self._load_template(name, globals)
+  File "C:\intershipgit\carmodel\intershiptask\myenv\lib\site-packages\jinja2\environment.py", line 969, in _load_template
+    template = self.loader.load(self, name, self.make_globals(globals))
+  File "C:\intershipgit\carmodel\intershiptask\myenv\lib\site-packages\jinja2\loaders.py", line 126, in load
+    source, filename, uptodate = self.get_source(environment, name)
+  File "C:\intershipgit\carmodel\intershiptask\myenv\lib\site-packages\flask\templating.py", line 64, in get_source
+    return self._get_source_fast(environment, template)
+  File "C:\intershipgit\carmodel\intershiptask\myenv\lib\site-packages\flask\templating.py", line 98, in _get_source_fast
+    raise TemplateNotFound(template)
+jinja2.exceptions.TemplateNotFound: results.html
+[2023-12-27 16:39:06,927:INFO:_internal:127.0.0.1 - - [27/Dec/2023 16:39:06] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -]
+[2023-12-27 16:40:28,246:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 16:40:28,249:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 16:40:31,367:INFO:_internal:127.0.0.1 - - [27/Dec/2023 16:40:31] "GET / HTTP/1.1" 200 -]
+[2023-12-27 16:40:31,717:INFO:_internal:127.0.0.1 - - [27/Dec/2023 16:40:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -]
+[2023-12-27 16:40:48,434:INFO:_internal:127.0.0.1 - - [27/Dec/2023 16:40:48] "POST /predict HTTP/1.1" 200 -]
+[2023-12-27 16:42:28,376:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 16:42:28,376:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 16:42:31,282:INFO:_internal:127.0.0.1 - - [27/Dec/2023 16:42:31] "GET / HTTP/1.1" 200 -]
+[2023-12-27 16:42:31,662:INFO:_internal:127.0.0.1 - - [27/Dec/2023 16:42:31] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -]
+[2023-12-27 16:42:52,142:INFO:_internal:127.0.0.1 - - [27/Dec/2023 16:42:52] "POST /predict HTTP/1.1" 200 -]
+[2023-12-27 16:45:07,587:INFO:_internal:127.0.0.1 - - [27/Dec/2023 16:45:07] "POST /predict HTTP/1.1" 200 -]
+[2023-12-27 17:14:28,841:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 17:14:28,844:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 17:14:32,054:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:14:32] "GET / HTTP/1.1" 200 -]
+[2023-12-27 17:14:32,519:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:14:32] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -]
+[2023-12-27 17:23:50,421:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 17:23:50,421:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 17:24:04,062:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:24:04] "GET / HTTP/1.1" 200 -]
+[2023-12-27 17:24:04,446:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:24:04] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -]
+[2023-12-27 17:25:44,616:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 17:25:44,616:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 17:25:47,735:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:25:47] "GET / HTTP/1.1" 200 -]
+[2023-12-27 17:25:48,141:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:25:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -]
+[2023-12-27 17:26:18,602:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:26:18] "GET / HTTP/1.1" 200 -]
+[2023-12-27 17:26:18,636:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:26:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -]
+[2023-12-27 17:26:37,971:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 17:26:37,971:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 17:26:41,700:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:26:41] "GET / HTTP/1.1" 200 -]
+[2023-12-27 17:26:41,949:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:26:41] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -]
+[2023-12-27 17:27:49,784:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 17:27:49,784:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 17:27:52,662:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:27:52] "GET / HTTP/1.1" 200 -]
+[2023-12-27 17:27:53,049:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:27:53] "GET /static/css/style.css HTTP/1.1" 200 -]
+[2023-12-27 17:28:36,420:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 17:28:36,420:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 17:28:39,056:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:28:39] "GET / HTTP/1.1" 200 -]
+[2023-12-27 17:28:39,387:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:28:39] "GET /static/css/style.css HTTP/1.1" 200 -]
+[2023-12-27 17:30:06,865:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 17:30:06,868:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 17:30:09,483:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:30:09] "GET / HTTP/1.1" 200 -]
+[2023-12-27 17:30:09,788:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:30:09] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -]
+[2023-12-27 17:33:14,328:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 17:33:14,335:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 17:33:17,902:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:33:17] "GET / HTTP/1.1" 200 -]
+[2023-12-27 17:33:18,233:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:33:18] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -]
+[2023-12-27 17:33:40,290:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 17:33:40,290:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 17:33:42,880:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:33:42] "GET / HTTP/1.1" 200 -]
+[2023-12-27 17:33:43,181:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:33:43] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -]
+[2023-12-27 17:35:24,964:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 17:35:24,977:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 17:35:27,643:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:35:27] "GET / HTTP/1.1" 200 -]
+[2023-12-27 17:35:27,877:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:35:27] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -]
+[2023-12-27 17:35:48,067:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:35:48] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -]
+[2023-12-27 17:36:40,842:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 17:36:40,842:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 17:36:43,929:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:36:43] "GET / HTTP/1.1" 200 -]
+[2023-12-27 17:36:44,225:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:36:44] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -]
+[2023-12-27 17:36:52,615:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:36:52] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -]
+[2023-12-27 17:39:12,257:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:39:12] "[31m[1mPOST /predict HTTP/1.1[0m" 400 -]
+[2023-12-27 17:41:44,785:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 17:41:44,792:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 17:41:48,193:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:41:48] "GET / HTTP/1.1" 200 -]
+[2023-12-27 17:41:48,484:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:41:48] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -]
+[2023-12-27 17:41:59,743:ERROR:app:Exception on /predict [POST]]
+Traceback (most recent call last):
+  File "C:\intershipgit\carmodel\intershiptask\myenv\lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\intershipgit\carmodel\intershiptask\myenv\lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\intershipgit\carmodel\intershiptask\myenv\lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\intershipgit\carmodel\intershiptask\myenv\lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\intershipgit\carmodel\intershiptask\app.py", line 32, in index
+    owner =int (request.form['owner'])
+ValueError: invalid literal for int() with base 10: 'o'
+[2023-12-27 17:41:59,747:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:41:59] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -]
+[2023-12-27 17:42:51,029:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 17:42:51,037:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 17:42:53,809:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:42:53] "GET / HTTP/1.1" 200 -]
+[2023-12-27 17:42:54,073:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:42:54] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -]
+[2023-12-27 17:43:04,126:INFO:_internal:127.0.0.1 - - [27/Dec/2023 17:43:04] "POST /predict HTTP/1.1" 200 -]
+[2023-12-27 18:55:24,167:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 18:55:24,174:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 18:55:27,775:INFO:_internal:127.0.0.1 - - [27/Dec/2023 18:55:27] "GET / HTTP/1.1" 200 -]
+[2023-12-27 18:55:28,017:INFO:_internal:127.0.0.1 - - [27/Dec/2023 18:55:28] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -]
+[2023-12-27 20:31:48,658:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 20:31:48,658:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 20:31:51,957:INFO:_internal:127.0.0.1 - - [27/Dec/2023 20:31:51] "GET / HTTP/1.1" 200 -]
+[2023-12-27 20:31:52,270:INFO:_internal:127.0.0.1 - - [27/Dec/2023 20:31:52] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -]
+[2023-12-27 20:32:13,675:INFO:_internal:127.0.0.1 - - [27/Dec/2023 20:32:13] "POST /predict HTTP/1.1" 200 -]
+[2023-12-27 20:32:13,733:INFO:_internal:127.0.0.1 - - [27/Dec/2023 20:32:13] "GET /static/css/style2.css HTTP/1.1" 200 -]
+[2023-12-27 20:33:59,862:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 20:33:59,862:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 20:34:03,039:INFO:_internal:127.0.0.1 - - [27/Dec/2023 20:34:03] "GET / HTTP/1.1" 200 -]
+[2023-12-27 20:34:03,323:INFO:_internal:127.0.0.1 - - [27/Dec/2023 20:34:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -]
+[2023-12-27 20:34:21,695:INFO:_internal:127.0.0.1 - - [27/Dec/2023 20:34:21] "POST /predict HTTP/1.1" 200 -]
+[2023-12-27 20:34:21,723:INFO:_internal:127.0.0.1 - - [27/Dec/2023 20:34:21] "[36mGET /static/css/style2.css HTTP/1.1[0m" 304 -]
+[2023-12-27 20:35:58,533:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 20:35:58,535:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 20:36:02,795:INFO:_internal:127.0.0.1 - - [27/Dec/2023 20:36:02] "GET / HTTP/1.1" 200 -]
+[2023-12-27 20:36:03,245:INFO:_internal:127.0.0.1 - - [27/Dec/2023 20:36:03] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -]
+[2023-12-27 20:36:19,665:INFO:_internal:127.0.0.1 - - [27/Dec/2023 20:36:19] "POST /predict HTTP/1.1" 200 -]
+[2023-12-27 20:36:19,725:INFO:_internal:127.0.0.1 - - [27/Dec/2023 20:36:19] "[36mGET /static/css/style2.css HTTP/1.1[0m" 304 -]
+[2023-12-27 20:37:08,120:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 20:37:08,131:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 20:37:10,903:INFO:_internal:127.0.0.1 - - [27/Dec/2023 20:37:10] "GET / HTTP/1.1" 200 -]
+[2023-12-27 20:37:11,279:INFO:_internal:127.0.0.1 - - [27/Dec/2023 20:37:11] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -]
+[2023-12-27 20:37:28,945:INFO:_internal:127.0.0.1 - - [27/Dec/2023 20:37:28] "POST /predict HTTP/1.1" 200 -]
+[2023-12-27 20:37:28,973:INFO:_internal:127.0.0.1 - - [27/Dec/2023 20:37:28] "[36mGET /static/css/style2.css HTTP/1.1[0m" 304 -]
+[2023-12-27 20:37:57,137:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 20:37:57,137:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 20:38:01,309:INFO:_internal:127.0.0.1 - - [27/Dec/2023 20:38:01] "GET / HTTP/1.1" 200 -]
+[2023-12-27 20:38:01,630:INFO:_internal:127.0.0.1 - - [27/Dec/2023 20:38:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -]
+[2023-12-27 20:38:20,967:INFO:_internal:127.0.0.1 - - [27/Dec/2023 20:38:20] "POST /predict HTTP/1.1" 200 -]
+[2023-12-27 20:38:20,989:INFO:_internal:127.0.0.1 - - [27/Dec/2023 20:38:20] "[36mGET /static/css/style2.css HTTP/1.1[0m" 304 -]
+[2023-12-27 20:39:08,642:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 20:39:08,642:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 20:39:16,179:INFO:_internal:127.0.0.1 - - [27/Dec/2023 20:39:16] "GET / HTTP/1.1" 200 -]
+[2023-12-27 20:39:16,554:INFO:_internal:127.0.0.1 - - [27/Dec/2023 20:39:16] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -]
+[2023-12-27 20:39:35,983:INFO:_internal:127.0.0.1 - - [27/Dec/2023 20:39:35] "POST /predict HTTP/1.1" 200 -]
+[2023-12-27 20:39:36,008:INFO:_internal:127.0.0.1 - - [27/Dec/2023 20:39:36] "[36mGET /static/css/style2.css HTTP/1.1[0m" 304 -]
+[2023-12-27 20:39:56,850:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-27 20:39:56,850:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-27 20:40:01,695:INFO:_internal:127.0.0.1 - - [27/Dec/2023 20:40:01] "GET / HTTP/1.1" 200 -]
+[2023-12-27 20:40:02,061:INFO:_internal:127.0.0.1 - - [27/Dec/2023 20:40:02] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -]
+[2023-12-27 20:40:18,087:INFO:_internal:127.0.0.1 - - [27/Dec/2023 20:40:18] "POST /predict HTTP/1.1" 200 -]
+[2023-12-27 20:40:18,126:INFO:_internal:127.0.0.1 - - [27/Dec/2023 20:40:18] "[36mGET /static/css/style2.css HTTP/1.1[0m" 304 -]
+[2023-12-31 20:22:43,025:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2023-12-31 20:22:43,027:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2023-12-31 20:22:50,441:INFO:_internal:127.0.0.1 - - [31/Dec/2023 20:22:50] "GET / HTTP/1.1" 200 -]
+[2023-12-31 20:22:50,554:INFO:_internal:127.0.0.1 - - [31/Dec/2023 20:22:50] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -]
+[2023-12-31 20:22:50,607:INFO:_internal:127.0.0.1 - - [31/Dec/2023 20:22:50] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2023-12-31 20:23:15,595:INFO:_internal:127.0.0.1 - - [31/Dec/2023 20:23:15] "POST /predict HTTP/1.1" 200 -]
+[2023-12-31 20:23:15,658:INFO:_internal:127.0.0.1 - - [31/Dec/2023 20:23:15] "[36mGET /static/css/style2.css HTTP/1.1[0m" 304 -]
+[2024-01-01 12:24:04,911:INFO:_internal:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.1.4:8080]
+[2024-01-01 12:24:04,911:INFO:_internal:[33mPress CTRL+C to quit[0m]
+[2024-01-01 12:24:08,504:INFO:_internal:127.0.0.1 - - [01/Jan/2024 12:24:08] "GET / HTTP/1.1" 200 -]
+[2024-01-01 12:24:08,613:INFO:_internal:127.0.0.1 - - [01/Jan/2024 12:24:08] "GET /static/css/style.css HTTP/1.1" 200 -]
+[2024-01-01 12:24:08,668:INFO:_internal:127.0.0.1 - - [01/Jan/2024 12:24:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -]
+[2024-01-01 12:24:25,689:ERROR:app:Exception on /predict [POST]]
+Traceback (most recent call last):
+  File "C:\intershipgit\carmodel\intershiptask\myenv\lib\site-packages\flask\app.py", line 2190, in wsgi_app
+    response = self.full_dispatch_request()
+  File "C:\intershipgit\carmodel\intershiptask\myenv\lib\site-packages\flask\app.py", line 1486, in full_dispatch_request
+    rv = self.handle_user_exception(e)
+  File "C:\intershipgit\carmodel\intershiptask\myenv\lib\site-packages\flask\app.py", line 1484, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\intershipgit\carmodel\intershiptask\myenv\lib\site-packages\flask\app.py", line 1469, in dispatch_request
+    return self.ensure_sync(self.view_functions[rule.endpoint])(**view_args)
+  File "C:\car\app.py", line 39, in index
+    obj = PredictionPipeline()
+  File "C:\car\src\mlproject\pipeline\prediction.py", line 10, in __init__
+    self.model = joblib.load(Path('artifacts/model_trainer/model.joblib'))
+  File "C:\intershipgit\carmodel\intershiptask\myenv\lib\site-packages\joblib\numpy_pickle.py", line 650, in load
+    with open(filename, 'rb') as f:
+FileNotFoundError: [Errno 2] No such file or directory: 'artifacts\\model_trainer\\model.joblib'
+[2024-01-01 12:24:25,728:INFO:_internal:127.0.0.1 - - [01/Jan/2024 12:24:25] "[35m[1mPOST /predict HTTP/1.1[0m" 500 -]
+[2024-01-01 12:24:57,829:INFO:main:>>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-01-01 12:24:57,848:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2024-01-01 12:24:57,848:INFO:common:yaml file:params.yamlloaded successfully]
+[2024-01-01 12:24:57,861:INFO:common:yaml file:schema.yamlloaded successfully]
+[2024-01-01 12:24:57,861:INFO:common:created directory at:artifacts]
+[2024-01-01 12:24:57,874:INFO:common:created directory at:artifacts/data_ingestion]
+[2024-01-01 12:24:58,819:INFO:data_ingestion:artifacts/data_ingestion/data.zip download with following info: 
+ Connection: close
+Content-Length: 3898
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "1e8268eece04b73f929c644872894f2c761460957a71981a3fcac6d2293b3bd2"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 28B6:1525:F32559:1345FB7:659261B9
+Accept-Ranges: bytes
+Date: Mon, 01 Jan 2024 06:54:50 GMT
+Via: 1.1 varnish
+X-Served-By: cache-maa10222-MAA
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1704092090.994471,VS0,VE312
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 215c8cc31927919ec04b005cc4772d4e146198b0
+Expires: Mon, 01 Jan 2024 06:59:50 GMT
+Source-Age: 0
+
+]
+[2024-01-01 12:24:58,859:INFO:main:>>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-01-01 12:24:58,859:INFO:main:>>>>>> stage Data Validation stage started <<<<<<]
+[2024-01-01 12:24:58,866:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2024-01-01 12:24:58,866:INFO:common:yaml file:params.yamlloaded successfully]
+[2024-01-01 12:24:58,866:INFO:common:yaml file:schema.yamlloaded successfully]
+[2024-01-01 12:24:58,866:INFO:common:created directory at:artifacts]
+[2024-01-01 12:24:58,866:INFO:common:created directory at:artifacts/data_validation]
+[2024-01-01 12:24:58,901:INFO:main:>>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-01-01 12:24:58,904:INFO:main:>>>>>> stage Data Transformation stage started <<<<<<]
+[2024-01-01 12:24:58,917:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2024-01-01 12:24:58,924:INFO:common:yaml file:params.yamlloaded successfully]
+[2024-01-01 12:24:58,924:INFO:common:yaml file:schema.yamlloaded successfully]
+[2024-01-01 12:24:58,930:INFO:common:created directory at:artifacts]
+[2024-01-01 12:24:58,930:INFO:common:created directory at:artifacts/data_transformation]
+[2024-01-01 12:24:58,953:INFO:data_transformation:Splited data into training and test sets]
+[2024-01-01 12:24:58,953:INFO:data_transformation:(225, 9)]
+[2024-01-01 12:24:58,955:INFO:data_transformation:(76, 9)]
+[2024-01-01 12:24:58,958:INFO:main:>>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-01-01 12:24:58,959:INFO:main:>>>>>> stage Model Trainer stage started <<<<<<]
+[2024-01-01 12:24:58,961:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2024-01-01 12:24:58,961:INFO:common:yaml file:params.yamlloaded successfully]
+[2024-01-01 12:24:58,973:INFO:common:yaml file:schema.yamlloaded successfully]
+[2024-01-01 12:24:58,973:INFO:common:created directory at:artifacts]
+[2024-01-01 12:24:58,973:INFO:common:created directory at:artifacts/model_trainer]
+[2024-01-01 12:24:59,298:INFO:main:>>>>>> stage Model Trainer stage completed <<<<<<
+
+x==========x]
+[2024-01-01 12:24:59,298:INFO:main:>>>>>> stage Model evaluation stage started <<<<<<]
+[2024-01-01 12:24:59,298:INFO:common:yaml file:config\config.yamlloaded successfully]
+[2024-01-01 12:24:59,314:INFO:common:yaml file:params.yamlloaded successfully]
+[2024-01-01 12:24:59,319:INFO:common:yaml file:schema.yamlloaded successfully]
+[2024-01-01 12:24:59,319:INFO:common:created directory at:artifacts]
+[2024-01-01 12:24:59,323:INFO:common:created directory at:artifacts/model_evaluation]
+[2024-01-01 12:24:59,393:INFO:common:json file saved at:artifacts\model_evaluation\metrics.json]
+[2024-01-01 12:24:59,393:INFO:main:>>>>>> stage Model evaluation stage completed <<<<<<
+
+x==========x]

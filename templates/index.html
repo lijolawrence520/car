@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="static/css/style.css" rel="stylesheet" />
+</head>
+<body >
+	<div class="a">
+		<!-- <div class="form-v9-content" style="background-image: url('static/assets/img/form-v9.jpg')"> -->
+			<form class="det" action="/predict" method="post">
+				<h2>Please Fill The Information</h2>
+				<div class="b">
+
+					<div class="c">
+                        <label for="fixed_acidity"> Year</label>
+						<input type="number" name="year" id="fixed_acidity" class="input-text"  required>
+					</div>
+
+					<div class="c">
+                        <label for="volatile_acidity"> Present Price</label>
+						<input type="float" name="present_price" id="volatile_acidity" class="input-text"  required>
+					</div>
+
+				</div>
+
+
+				<div class="b">
+
+                    <div class="c">
+                        <label for="citric_acid"> KM Driven</label>
+						<input type="Number" name="kms_driven" id="citric_acid" class="input-text"  required>
+					</div>
+
+
+                    <div class="c">
+                        <label for="residual_sugar"> Fuel Type</label>
+						<select name="fuel_type" id="fuel_type" class="input-text" required>
+                            <option value="">Select Fuel Type</option>
+                            <option value=2>Petrol</option>
+                            <option value=1>Diesel</option>
+                            <option value=0>CNG</option>
+                            <!-- Add more options as needed -->
+                        </select>
+					</div>
+
+				</div>
+
+
+                <div class="b">
+
+                    <div class="c">
+                        <label for="chlorides"> Seller Type</label>
+						<select name="seller_type" id="fuel_type" class="input-text"  required>
+                            <option value="">Select Seller Type</option>
+                            <option value=0>Dealer</option>
+                            <option value=1>Individual</option>
+                        </select>    
+                            
+					</div>
+
+                    <div class="c">
+                        <label for="free_sulfur_dioxide"> Transmission</label>
+						<select name="transmission" id="fuel_type" class="input-text"  required>
+                            <option value="">Select Transmission Type</option>
+                            <option value=1>Manual</option>
+                            <option value=0>Automatic</option>
+                        </select>    
+					</div>
+
+				</div>
+
+
+                <div class="b">
+
+                    <div class="c">
+                        <label for="total_sulfur_dioxide"> Owner</label>
+						<select name="owner" id="fuel_type" class="input-text" required>
+                            <option value="">Select Owner Type</option>
+                            <option value=0>First</option>
+                            <option value=1>Second</option>
+                            <option value=3>Third</option>
+                        </select>
+					</div>
+
+
+				</div>
+
+
+              
+
+				<div class="d">
+					<input type="submit" name="register" class="register" value="Predict">
+				</div>
+			</form>
+		</div>
+	</div>
+    
+</body>
+</html>
